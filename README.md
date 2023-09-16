@@ -1,4 +1,8 @@
-# React + Vite
+# Course-Registration
+
+* you can buy some courses
+* But you can not buy a course more then one time
+* After select the courses you can see the remaining credits
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
