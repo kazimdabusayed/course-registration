@@ -27,7 +27,7 @@
 		"id": 4,
 		"name": "Basic Data Structures",
 		"image": "https://i.ibb.co/k3KymMz/data-Structure.png",
-		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+		"description": "The course covers the common data structures used in various computational problems, how they are implemented in different programming languages, and how to practice implementing them in programming assignments.",
 		"credit": 5,
 		"price": 35000
 	},
@@ -35,7 +35,7 @@
 		"id": 5,
 		"name": "Introduction to OOP Python",
 		"image": "https://i.ibb.co/Z1dQFBM/python.png",
-		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+		"description": "This course is designed to provide a basic conceptual understanding of object-oriented programming in Python. It is aimed at those who have no prior experience of object-oriented programming.",
 		"credit": 4,
 		"price": 19000
 	},
@@ -43,7 +43,7 @@
 		"id": 6,
 		"name": "Software Engineering",
 		"image": "https://i.ibb.co/7NPXPP3/Rectangle-2-5.png",
-		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+		"description": "This course provides a foundational understanding of software development, programming, and the many exciting job roles and career paths in the IT industry.",
 		"credit": 2,
 		"price": 23000
 	},
@@ -51,7 +51,7 @@
 		"id": 7,
 		"name": "AWS, Cloud Computing",
 		"image": "https://i.ibb.co/bb9Ym3j/aws.png",
-		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+		"description": "AWS is the most comprehensive and widely adopted cloud platform in the world, with millions of customers, including startups, enterprises, and government agencies, using it to lower costs, become more agile, and innovate faster.",
 		"credit": 5,
 		"price": 35000
 	},
@@ -59,7 +59,7 @@
 		"id": 8,
 		"name": "Database (MySQL)",
 		"image": "https://i.ibb.co/QfJ68qz/mySql.png",
-		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+		"description": "Database (MySQL) would cover the fundamental concepts of database management systems, including data modeling, database design, normalization, and SQL programming.",
 		"credit": 5,
 		"price": 19000
 	},
@@ -67,7 +67,7 @@
 		"id": 9,
 		"name": "Problem-Solving Part",
 		"image": "https://i.ibb.co/n07qRhs/problem.png",
-		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+		"description": "Problem-solving is the process of identifying, analyzing, and resolving problems. It involves defining the problem, determining its root cause, prioritizing and selecting potential solutions, and implementing the chosen solution.",
 		"credit": 6,
 		"price": 23000
 	}

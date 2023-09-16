@@ -10,7 +10,7 @@ const Course = ({ course, handleAddToCart }) => {
     
 
 	return (
-		<div className="card card-compact bg-base-300 shadow-xl">
+		<div className="card card-compact bg-base-200 shadow-xl">
 			<figure className="px-4 pt-4">
 				<img src={image} alt="" className="rounded-xl" />
 			</figure>
