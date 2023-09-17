@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 
 const Cart = ({ cart, remaining, totalCredit, totalPrice }) => {
 	return (
@@ -7,7 +8,7 @@ const Cart = ({ cart, remaining, totalCredit, totalPrice }) => {
 			</h3>
 			<p className="border-b-2 text-[#1C1B1B99]"></p>
 			<div>
-				<h4 className="text-2xl font-semibold pt-3 pb-6">
+				<h4 className="text-2xl font-semibold pt-3 pb-4">
 					Course Name
 				</h4>
 
